@@ -1,0 +1,6 @@
+name: PersianChat-NK
+main: com.PersianChat.Main
+version: 1.0.0
+api: ["1.0.0"]
+author: Shfiso-a
+description: Persian chat formatting plugin for Nukkit 
